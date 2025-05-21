@@ -37,7 +37,7 @@ Un jeu de labyrinthe où un mouton doit s'échapper avant que le loup ne le mang
 
 ## Branche principale
 
-Tous les fichiers sont disponibles sur la branche `master`.
+Tous les fichiers sont dans SaE
 
 ## Fonctionnalités
 
